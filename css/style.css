@@ -4,7 +4,7 @@ body{
     height: 100%;
     background-color: rgb(20,74,67) !important;
 }
-.container-fluid{
+.x-board-modern .container-fluid{
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
@@ -59,12 +59,13 @@ body{
     padding-left: 45px;
 }
 .x-board-modern #banner-section{
-    height: 455px;
+    height: 445px;
     background-color: #fff !important;
+    text-align: center;
 }
 .x-board-modern #banner-section img{
     width: 2000px;
-    height: 455px;
+    height: 445px;
 }
 .x-board-modern #banner-section h5{
     padding-top: 70px;
@@ -92,7 +93,7 @@ body{
 
 .x-board-modern #time-table-section{
     background-color: rgb(20,74,67);
-    padding-top: 8px;
+    padding-top: 5px;
     height: 288px;
 }
 .x-board-modern #time-table-section .row{
@@ -177,10 +178,10 @@ body{
         font-size: 28px;
     }
     .x-board-modern #banner-section{
-        height: 395px;
+        height: 390px;
     }
     .x-board-modern #banner-section img{
-        height: 395px;
+        height: 390px;
     }
     .x-board-modern .icon{
         font-size: 25px;
@@ -212,10 +213,33 @@ body{
         font-size: 25px;
     }
     .x-board-modern #banner-section{
-        height: 370px;
+        height: 365px;
     }
     .x-board-modern #banner-section img{
-        height: 370px;
+        height: 365px;
+    }
+    .x-board-modern #banner-section h5{
+        padding-top: 65px;
+        font-size: 40px;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h3{
+        font-size: 50px;
+        display: inline;
+        color: rgb(20,74,67);
+        font-weight: bolder;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h1{
+        font-size: 55px;
+        color: rgb(20,74,67);
+        font-weight: bold;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section p{
+        font-size: 20px;
+        display: inline;
+        font-family: 'Merriweather', serif;
     }
     .x-board-modern .icon{
         font-size: 23px;
@@ -269,10 +293,33 @@ body{
         font-size: 22px;
     }
     .x-board-modern #banner-section{
-        height: 350px;
+        height: 345px;
     }
     .x-board-modern #banner-section img{
-        height: 350px;
+        height: 345px;
+    }
+    .x-board-modern #banner-section h5{
+        padding-top: 55px;
+        font-size: 40px;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h3{
+        font-size: 40px;
+        display: inline;
+        color: rgb(20,74,67);
+        font-weight: bolder;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h1{
+        font-size: 50px;
+        color: rgb(20,74,67);
+        font-weight: bold;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section p{
+        font-size: 20px;
+        display: inline;
+        font-family: 'Merriweather', serif;
     }
     .x-board-modern .icon{
         font-size: 22px;
@@ -309,10 +356,10 @@ body{
         letter-spacing: 2px;
     }
     .x-board-modern #banner-section{
-        height: 330px;
+        height: 325px;
     }
     .x-board-modern #banner-section img{
-        height: 330px;
+        height: 325px;
     }
     .x-board-modern .icon{
         font-size: 22px;
@@ -346,10 +393,10 @@ body{
         padding-left: 35px;
     }
     .x-board-modern #banner-section{
-        height: 320px;
+        height: 315px;
     }
     .x-board-modern #banner-section img{
-        height: 320px;
+        height: 315px;
     }
     .x-board-modern .icon{
         font-size: 20px;
@@ -389,6 +436,29 @@ body{
     .x-board-modern .date-english-arabic p{
         font-size: 18px;
     }
+    .x-board-modern #banner-section h5{
+        padding-top: 52px;
+        font-size: 40px;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h3{
+        font-size: 37px;
+        display: inline;
+        color: rgb(20,74,67);
+        font-weight: bolder;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h1{
+        font-size: 47px;
+        color: rgb(20,74,67);
+        font-weight: bold;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section p{
+        font-size: 18px;
+        display: inline;
+        font-family: 'Merriweather', serif;
+    }
 }
 
 @media (max-width: 787px){
@@ -410,10 +480,10 @@ body{
         font-size: 16px;
     }
     .x-board-modern #banner-section{
-        height: 300px;
+        height: 295px;
     }
     .x-board-modern #banner-section img{
-        height: 300px;
+        height: 295px;
     }
     .x-board-modern .icon{
         font-size: 17px;
@@ -545,6 +615,29 @@ body{
     .x-board-modern .date-english-arabic p{
         font-size: 12px;
     }
+    .x-board-modern #banner-section h5{
+        padding-top: 57px;
+        font-size: 35px;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h3{
+        font-size: 32px;
+        display: inline;
+        color: rgb(20,74,67);
+        font-weight: bolder;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h1{
+        font-size: 42px;
+        color: rgb(20,74,67);
+        font-weight: bold;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section p{
+        font-size: 15px;
+        display: inline;
+        font-family: 'Merriweather', serif;
+    }
   
 }
 
@@ -574,6 +667,29 @@ body{
     } 
     .x-board-modern #banner-section img{
         height: 230px;
+    }
+    .x-board-modern #banner-section h5{
+        padding-top: 27px;
+        font-size: 25px;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h3{
+        font-size: 27px;
+        display: inline;
+        color: rgb(20,74,67);
+        font-weight: bolder;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h1{
+        font-size: 37px;
+        color: rgb(20,74,67);
+        font-weight: bold;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section p{
+        font-size: 10px;
+        display: inline;
+        font-family: 'Merriweather', serif;
     }
     .x-board-modern .icon{
         font-size: 15px;
@@ -640,6 +756,29 @@ body{
     }
     .x-board-modern #banner-section img{
         height: 190px;
+    }
+    .x-board-modern #banner-section h5{
+        padding-top: 27px;
+        font-size: 15px;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h3{
+        font-size: 17px;
+        display: inline;
+        color: rgb(20,74,67);
+        font-weight: bolder;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section h1{
+        font-size: 27px;
+        color: rgb(20,74,67);
+        font-weight: bold;
+        font-family: 'Merriweather', serif;
+    }
+    .x-board-modern #banner-section p{
+        font-size: 10px;
+        display: inline;
+        font-family: 'Merriweather', serif;
     }
     .x-board-modern .icon{
         font-size: 16px;
