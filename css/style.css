@@ -77,13 +77,10 @@ body{
     font-weight: bolder;
     font-family: 'Merriweather', serif;
 }
-.x-board-modern #banner-section .next-prayer-time{
-    padding-top: 130px;
-}
 .x-board-modern #time-table-section{
     background-color: rgb(20,74,67);
-    padding-top: 5px;
-    height: 288px;
+    padding-top: 15px;
+    height: 340px;
 }
 .x-board-modern #time-table-section .row{
     width: 100%;
@@ -217,9 +214,6 @@ body{
         font-weight: bolder;
         font-family: 'Merriweather', serif;
     }
-    .x-board-modern #banner-section .next-prayer-time{
-        padding-top: 130px;
-    }
     .x-board-modern .icon{
         font-size: 23px;
     }
@@ -287,9 +281,6 @@ body{
         font-weight: bolder;
         font-family: 'Merriweather', serif;
     }
-    .x-board-modern #banner-section .next-prayer-time{
-        padding-top: 125px;
-    }
     .x-board-modern .icon{
         font-size: 22px;
     }
@@ -340,9 +331,6 @@ body{
         font-weight: bolder;
         font-family: 'Merriweather', serif;
     }
-    .x-board-modern #banner-section .next-prayer-time{
-        padding-top: 122px;
-    }
     .x-board-modern .icon{
         font-size: 22px;
     }
@@ -389,9 +377,6 @@ body{
         color: rgb(20,74,67);
         font-weight: bolder;
         font-family: 'Merriweather', serif;
-    }
-    .x-board-modern #banner-section .next-prayer-time{
-        padding-top: 122px;
     }
     .x-board-modern .icon{
         font-size: 20px;
@@ -441,9 +426,6 @@ body{
         font-weight: bolder;
         font-family: 'Merriweather', serif;
     }
-    .x-board-modern #banner-section .next-prayer-time{
-        padding-top: 117px;
-    }
 }
 
 @media (max-width: 787px){
@@ -479,9 +461,6 @@ body{
         color: rgb(20,74,67);
         font-weight: bolder;
         font-family: 'Merriweather', serif;
-    }
-    .x-board-modern #banner-section .next-prayer-time{
-        padding-top: 110px;
     }
     .x-board-modern .icon{
         font-size: 17px;
@@ -576,9 +555,6 @@ body{
         font-weight: bolder;
         font-family: 'Merriweather', serif;
     }
-    .x-board-modern #banner-section .next-prayer-time{
-        padding-top: 80px;
-    }
     .x-board-modern .icon{
         font-size: 25px;
     }
@@ -666,9 +642,6 @@ body{
         font-weight: bolder;
         font-family: 'Merriweather', serif;
     }
-    .x-board-modern #banner-section .next-prayer-time{
-        padding-top: 70px;
-    }
     .x-board-modern .icon{
         font-size: 15px;
     }
@@ -744,9 +717,6 @@ body{
         color: rgb(20,74,67);
         font-weight: bolder;
         font-family: 'Merriweather', serif;
-    }
-    .x-board-modern #banner-section .next-prayer-time{
-        padding-top: 50px;
     }
     .x-board-modern .icon{
         font-size: 16px;
